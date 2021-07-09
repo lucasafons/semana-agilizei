@@ -1,0 +1,8 @@
+{
+    "$schema": "https://on.cypress.io/cypress.schema.json",
+    "baseUrl": "http://demo.automationtesting.in/",
+    "watchForFileChanges": false,
+    "experimentalSourceRewriting": true,
+    "video": false,
+    "testFiles": "**/*.{feature,features}"
+}
